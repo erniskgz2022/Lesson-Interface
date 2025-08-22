@@ -1,4 +1,4 @@
-package HomeWork;
+package Lesson_Interface.HomeWork;
 
 public interface Study {
 

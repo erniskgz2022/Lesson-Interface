@@ -1,8 +1,9 @@
-package HomeWork;
+package Lesson_Interface.HomeWork;
 
 
 
-import HomeWork.Servicelmpl.Student;
+import Lesson_Interface.HomeWork.Servicelmpl.Student;
+import Lesson_Interface.HomeWork.Servicelmpl.Student;
 
 import java.time.LocalDate;
 
